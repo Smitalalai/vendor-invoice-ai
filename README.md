@@ -48,30 +48,6 @@ Manual invoice data entry is time-consuming, error-prone, and costly for busines
 - **Template Storage**: Save export configurations for reuse
 - **Historical Duplicate Database**: Maintains processing history across sessions
 
-## 🚀 Live Demo
-**[View Live Tool](https://treytonschemper.github.io/invoice-data-extractor/)**
-
-## 💼 Business Impact
-
-### Time Savings
-- **95% reduction** in manual data entry time
-- Process 50+ invoices in the time it takes to manually enter 5
-- Eliminate double-keying errors
-
-### Cost Reduction
-- Reduce labor costs for AP processing
-- Minimize late payment penalties through faster processing
-- Lower error correction costs
-
-### Accuracy Improvement
-- Machine learning improves accuracy with each processed invoice
-- Consistent data formatting eliminates import errors
-- Duplicate detection prevents overpayments
-
-### Scalability
-- Handle invoice volume spikes without adding staff
-- Process invoices from hundreds of vendors efficiently
-- Easy to train new team members
 
 ## 🛠️ Technologies Used
 - **HTML5**: Modern semantic structure
@@ -147,14 +123,6 @@ Manual invoice data entry is time-consuming, error-prone, and costly for busines
 - **Local Data Storage**: Learning data stored locally in browser
 - **Exportable Data**: Full control over your learning database
 
-## 📈 Use Cases
-- **Equipment Dealerships**: Process vendor invoices for parts and supplies
-- **Small-Medium Businesses**: Automate AP without expensive software
-- **Accounting Firms**: Process client invoices more efficiently
-- **Construction Companies**: Handle subcontractor invoices
-- **Retail Operations**: Process supplier invoices quickly
-- **Any Business**: Streamline accounts payable workflows
-
 ## ⚙️ Configuration Requirements
 
 ### Google Vision API Key
@@ -175,30 +143,7 @@ This tool requires a Google Cloud Vision API key. To set up:
 - Automated approval workflows
 - Vendor portal integration
 - Cloud-based learning data sync
-
-## 📞 Contact
-**Treyton Schemper, CPA**
-- Email: Treyton.Schemper@gmail.com
-- LinkedIn: https://www.linkedin.com/in/trey-schemper-cpa-2a07ab11b/
-- GitHub: [@treytonschemper](https://github.com/treytonschemper)
-
-## 🎯 Development Background
-This tool was developed to solve real-world accounts payable challenges faced by O'Brien County Implement, a $15M equipment dealership. Built with practical experience in accounting, business management, and an understanding of AP workflows, it demonstrates the intersection of technical skills and business domain knowledge.
-
-## 📝 License
-This project is available for demonstration and portfolio purposes.
-
----
-
-## 🎓 Technical Highlights for Employers
-- **API Integration**: Demonstrates ability to integrate third-party services (Google Vision)
-- **Machine Learning Concepts**: Implements pattern recognition and predictive logic
-- **Data Persistence**: Effective use of browser storage APIs
-- **User Experience**: Intuitive interface with real-time feedback
-- **Error Handling**: Robust duplicate detection and validation
-- **Scalable Architecture**: Modular code structure for easy maintenance
-- **Business Logic**: Deep understanding of AP workflows and requirements
-
 ---
 
 **Note**: This tool represents a practical solution to a real business problem, showcasing both technical development skills and business process understanding.
+
